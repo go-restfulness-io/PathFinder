@@ -1,4 +1,4 @@
-package PathFinder
+package pathfinder
 
 func match(patternStr, str string) PathValues {
 
