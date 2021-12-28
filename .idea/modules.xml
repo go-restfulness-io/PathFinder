@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/pathfinder.iml" filepath="$PROJECT_DIR$/.idea/pathfinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../restfulnessapplication/.idea/restfulnessapplication.iml" filepath="$PROJECT_DIR$/../restfulnessapplication/.idea/restfulnessapplication.iml" />
+    </modules>
+  </component>
+</project>

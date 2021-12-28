@@ -1,4 +1,4 @@
-package pathfinder
+package PathFinder
 
 import (
 	"fmt"
